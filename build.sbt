@@ -15,7 +15,9 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-stream" % akkaVersion,
 //  akka-http用来编解码使用的json依赖
   "com.typesafe.akka" %% "akka-http-spray-json" % akkaHttpVersion,
-
+// sqlite 数据驱动
+  // https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc
+  "org.xerial" % "sqlite-jdbc" % "3.25.2",
 
 
   // akka使用的测试工具包
