@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /root/ideaProject/test/akkaOrder/target/scala-2.12/akkaorder_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/models/GranTotal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/models/GranTotal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/models/GranTotal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/models/GranTotal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/DemoServerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/DemoServerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/models/Item$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/models/Item$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/models/OrderJsonSupport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/models/OrderJsonSupport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/DemoServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/DemoServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/DemoServerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/DemoServerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/DemoServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/DemoServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/DemoServerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/DemoServerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/models/Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/models/Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/models/Order$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/models/Order$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/order/models/Order.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/ideaProject/test/akkaOrder/target/scala-2.12/classes/com/order/models/Order.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
