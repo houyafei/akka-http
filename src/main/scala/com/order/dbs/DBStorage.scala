@@ -9,7 +9,9 @@ object DBStorage {
 
   def main(args: Array[String]): Unit = {
     createTable(null)
-    insert(Task(12, "good good study", 2, new Date()))
+    insert(Task(12, "good good study", 12, new Date()))
+
+
   }
 
 
@@ -26,6 +28,7 @@ object DBStorage {
       val result = stat.execute(sql)
       println(result)
       stat.close()
+      conn.close()
     }
   }
 
@@ -35,12 +38,12 @@ object DBStorage {
       val sql =
         "insert into task(task,status,create_time) values(?,?,?)"
       val stat = conn.prepareStatement(sql)
-      stat.setString(1,task.task)
-      stat.setInt(2,task.status)
-      stat.setString(3,task.createTime.toString)
+      stat.setString(1, task.task)
+      stat.setInt(2, task.status)
+      stat.setString(3, task.createTime.toString)
       stat.execute()
-
       stat.close()
+      conn.close()
     }
   }
 
